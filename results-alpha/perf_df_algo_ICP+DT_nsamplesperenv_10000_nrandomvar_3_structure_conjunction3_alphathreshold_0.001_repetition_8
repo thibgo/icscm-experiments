@@ -1,0 +1,5 @@
+algo,score,metric,type,split,n_var,n_samples,idx_features_used_binary_code,structure,alpha_threshold
+ICP+DT,0.918,accuracy,test,8,3,10000,16,conjunction3,0.001
+ICP+DT,0.921375,accuracy,train,8,3,10000,16,conjunction3,0.001
+ICP+DT,0.0,01 loss,causal,8,3,10000,16,conjunction3,0.001
+ICP+DT,6.806158,t2-t1,fit time,8,3,10000,16,conjunction3,0.001

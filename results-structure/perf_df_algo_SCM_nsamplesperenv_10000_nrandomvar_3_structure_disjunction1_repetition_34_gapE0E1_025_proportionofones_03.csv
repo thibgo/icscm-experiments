@@ -1,0 +1,5 @@
+algo,score,metric,type,split,n_var,n_samples,idx_features_used_binary_code,structure,gap_E0_E1,proportion_of_ones
+SCM,0.98025,accuracy,test,34,3,10000,32,disjunction1,0.25,0.3
+SCM,0.980375,accuracy,train,34,3,10000,32,disjunction1,0.25,0.3
+SCM,0.0,01 loss,causal,34,3,10000,32,disjunction1,0.25,0.3
+SCM,0.006107,t2-t1,fit time,34,3,10000,32,disjunction1,0.25,0.3

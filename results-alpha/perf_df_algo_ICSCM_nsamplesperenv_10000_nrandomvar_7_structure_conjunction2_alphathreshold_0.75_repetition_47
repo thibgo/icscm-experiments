@@ -1,0 +1,5 @@
+algo,score,metric,type,split,n_var,n_samples,idx_features_used_binary_code,structure,alpha_threshold
+ICSCM,0.11925,accuracy,test,47,7,10000,0,conjunction2,0.75
+ICSCM,0.1199375,accuracy,train,47,7,10000,0,conjunction2,0.75
+ICSCM,0.0,01 loss,causal,47,7,10000,0,conjunction2,0.75
+ICSCM,0.499016,t2-t1,fit time,47,7,10000,0,conjunction2,0.75

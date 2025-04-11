@@ -1,0 +1,5 @@
+algo,score,metric,type,split,n_var,n_samples,idx_features_used_binary_code,structure,gap_E0_E1,proportion_of_ones
+DT,0.9925,accuracy,test,60,3,10000,117,conjunction2,0.25,0.9
+DT,0.99075,accuracy,train,60,3,10000,117,conjunction2,0.25,0.9
+DT,0.0,01 loss,causal,60,3,10000,117,conjunction2,0.25,0.9
+DT,0.003979,t2-t1,fit time,60,3,10000,117,conjunction2,0.25,0.9
