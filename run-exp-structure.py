@@ -283,9 +283,9 @@ structure_list = [
                   'disjunction2', 
                   'disjunction3',
                   'disjunction4',
-                  #'treecomplete1',
-                  #'treecomplete3', 
-                  #'treecomplete7',
+                  'treecomplete1',
+                  'treecomplete3', 
+                  'treecomplete7',
                   ]
 
 gap_E0_E1_dict = {
@@ -334,7 +334,7 @@ proportion_of_ones_dict = {
                   'treecompletecontinuous7': [0.6],
                 }
 
-repetitions_range = list(range(100))
+repetitions_range = list(range(10))
 
 df_results_list = []
 results_dir = 'results-structure'

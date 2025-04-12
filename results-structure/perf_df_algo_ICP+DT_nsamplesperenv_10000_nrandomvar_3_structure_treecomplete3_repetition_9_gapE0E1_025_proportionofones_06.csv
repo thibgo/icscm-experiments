@@ -1,0 +1,5 @@
+algo,score,metric,type,split,n_var,n_samples,idx_features_used_binary_code,structure,gap_E0_E1,proportion_of_ones
+ICP+DT,0.97475,accuracy,test,9,3,10000,112,treecomplete3,0.25,0.6
+ICP+DT,0.9739375,accuracy,train,9,3,10000,112,treecomplete3,0.25,0.6
+ICP+DT,1.0,01 loss,causal,9,3,10000,112,treecomplete3,0.25,0.6
+ICP+DT,8.367911,t2-t1,fit time,9,3,10000,112,treecomplete3,0.25,0.6
